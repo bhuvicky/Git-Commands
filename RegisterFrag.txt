@@ -1,5 +1,5 @@
 enter data & validate
-
+email, mobile, age - revert 4
 new change for revert
 
 revert 3
