@@ -1,2 +1,3 @@
 notification setting
 font setting
+lang setting - change for reset force push
